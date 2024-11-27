@@ -94,4 +94,5 @@ The testing reveals critical accessibility issues that need to be addressed, inc
 If you have any questions or feedback regarding this project, feel free to reach out:
 
 Email: [radoslawwaszak98@gmail.com]
+
 GitHub: radekwaszak
